@@ -1,0 +1,17 @@
+package tickets;
+
+public enum DispenserState {
+    MAIN_MENU,
+    CHOOSE_TICKET,
+    TOURIST_INFO,
+    TICKET_SUMMARY,
+    PAY_FOR_TICKETS,
+    CANCEL_TICKETS,
+    SUMMARY,
+    BARBAKAN,
+    KOPIEC_KRAKUSA,
+    RYNEK_GLOWNY,
+    SUKIENNICE,
+    WAWEL,
+    KOSCIOL_MARIACKI
+}
